@@ -1,16 +1,50 @@
 ## Hi there 👋
 
-<!--
-**AASHUP1/AASHUP1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Aashu Pandey</h1>
+<h3 align="center">A Passionate Computer Science Engineer | Java Developer | Web Developer</h3>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Java-based full-stack applications**
+- 🌱 I’m currently learning **Spring Boot**, **ReactJS**, and **DSA**
+- 👨‍💻 All of my projects are available at [https://github.com/AASHUP1](https://github.com/AASHUP1)
+- 📫 How to reach me: **aashup.email@example.com**
+- 💬 Ask me about **Java, C, C++, SQL, Web Development, Git**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AASHUP1&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AASHUP1&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+- 🎓 [College Management System (Java)]<!--https://github.com/AASHUP1/College_Management_System -->
+- 🌐 [Lucknow Visitor Website](#) <!-- https://github.com/AASHUP1/LucknowVisitor -->
+- 💼 CodeSoft-Internship(Java) <!-- https://github.com/AASHUP1/CodeSoft-Internship -->
+
+---
+
+### ✨ Fun Fact
+
+I aim to open my own tech company one day and mentor students in tech!
+
