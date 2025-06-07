@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Aashu Pandey</h1>
 <h3 align="center">A Passionate Computer Science Engineer | Java Developer | Web Developer</h3>
