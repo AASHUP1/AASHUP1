@@ -1,13 +1,12 @@
-
 <h1 align="center">Hi 👋, I'm Aashu Pandey</h1>
 <h3 align="center">A Passionate Computer Science Engineer | Java Developer | Web Developer</h3>
 
 - 🔭 I’m currently working on **Java-based full-stack applications**
 - 🌱 I’m currently learning **Spring Boot**, **ReactJS**, and **DSA**
 - 👨‍💻 All of my projects are available at [https://github.com/AASHUP1](https://github.com/AASHUP1)
-- 📫 How to reach me: **aashup.email@example.com**
+- 🌐 My Portfolio: [https://aashuportfolio.great-site.net/](https://aashuportfolio.great-site.net/)
+- 📫 How to reach me: **aashup184@gmail.com**
 - 💬 Ask me about **Java, C, C++, SQL, Web Development, Git**
-
 ---
 
 ### 🛠️ Languages and Tools
